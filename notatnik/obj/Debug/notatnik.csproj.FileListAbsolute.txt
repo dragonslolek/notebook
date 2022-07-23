@@ -1,0 +1,52 @@
+C:\Users\user\Desktop\Studia\Obiektowe\zajecia1\Notatnik\notatnik\notatnik\bin\Debug\notatnik.exe.config
+C:\Users\user\Desktop\Studia\Obiektowe\zajecia1\Notatnik\notatnik\notatnik\bin\Debug\notatnik.exe
+C:\Users\user\Desktop\Studia\Obiektowe\zajecia1\Notatnik\notatnik\notatnik\bin\Debug\notatnik.pdb
+C:\Users\user\Desktop\Studia\Obiektowe\zajecia1\Notatnik\notatnik\notatnik\obj\Debug\notatnik.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Studia\Obiektowe\zajecia1\Notatnik\notatnik\notatnik\obj\Debug\notatnik.Notatnik.resources
+C:\Users\user\Desktop\Studia\Obiektowe\zajecia1\Notatnik\notatnik\notatnik\obj\Debug\notatnik.Properties.Resources.resources
+C:\Users\user\Desktop\Studia\Obiektowe\zajecia1\Notatnik\notatnik\notatnik\obj\Debug\notatnik.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Studia\Obiektowe\zajecia1\Notatnik\notatnik\notatnik\obj\Debug\notatnik.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Studia\Obiektowe\zajecia1\Notatnik\notatnik\notatnik\obj\Debug\notatnik.exe
+C:\Users\user\Desktop\Studia\Obiektowe\zajecia1\Notatnik\notatnik\notatnik\obj\Debug\notatnik.pdb
+C:\Users\user\Desktop\Studia\Obiektowe\zajecia1\Notatnik\notatnik\notatnik\obj\Debug\notatnik.O_programie.resources
+C:\Users\user\Desktop\Studia\Obiektowe\zajecia1\Notatnik\notatnik\notatnik\obj\Debug\notatnik.Znajdź.resources
+C:\Users\user\Desktop\Studia\Obiektowe\notatnik\notatnik\obj\Debug\notatnik.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Studia\Obiektowe\notatnik\notatnik\obj\Debug\notatnik.Notatnik.resources
+C:\Users\user\Desktop\Studia\Obiektowe\notatnik\notatnik\obj\Debug\notatnik.O_programie.resources
+C:\Users\user\Desktop\Studia\Obiektowe\notatnik\notatnik\obj\Debug\notatnik.Properties.Resources.resources
+C:\Users\user\Desktop\Studia\Obiektowe\notatnik\notatnik\obj\Debug\notatnik.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Studia\Obiektowe\notatnik\notatnik\obj\Debug\notatnik.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Studia\Obiektowe\notatnik\notatnik\obj\Debug\notatnik.exe
+C:\Users\user\Desktop\Studia\Obiektowe\notatnik\notatnik\obj\Debug\notatnik.pdb
+C:\Users\user\Desktop\Studia\Obiektowe\notatnik\notatnik\bin\Debug\notatnik.exe.config
+C:\Users\user\Desktop\Studia\Obiektowe\notatnik\notatnik\bin\Debug\notatnik.exe
+C:\Users\user\Desktop\Studia\Obiektowe\notatnik\notatnik\bin\Debug\notatnik.pdb
+C:\Users\user\Desktop\Studia\Obiektowe\notatnik\notatnik\obj\Debug\notatnik.Zamienianie.resources
+C:\Users\user\Desktop\Studia\Obiektowe\notatnik\notatnik\obj\Debug\notatnik.Opinia.resources
+C:\Users\user\Desktop\Studia\Obiektowe\notatnik\notatnik\obj\Debug\notatnik.Znajdz.resources
+C:\Users\panda\Desktop\notatnik\notatnik\bin\Debug\notatnik.exe.config
+C:\Users\panda\Desktop\notatnik\notatnik\bin\Debug\notatnik.exe
+C:\Users\panda\Desktop\notatnik\notatnik\bin\Debug\notatnik.pdb
+C:\Users\panda\Desktop\notatnik\notatnik\obj\Debug\notatnik.csprojAssemblyReference.cache
+C:\Users\panda\Desktop\notatnik\notatnik\obj\Debug\notatnik.Notatnik.resources
+C:\Users\panda\Desktop\notatnik\notatnik\obj\Debug\notatnik.Opinia.resources
+C:\Users\panda\Desktop\notatnik\notatnik\obj\Debug\notatnik.O_programie.resources
+C:\Users\panda\Desktop\notatnik\notatnik\obj\Debug\notatnik.Properties.Resources.resources
+C:\Users\panda\Desktop\notatnik\notatnik\obj\Debug\notatnik.Znajdz.resources
+C:\Users\panda\Desktop\notatnik\notatnik\obj\Debug\notatnik.csproj.GenerateResource.cache
+C:\Users\panda\Desktop\notatnik\notatnik\obj\Debug\notatnik.csproj.CoreCompileInputs.cache
+C:\Users\panda\Desktop\notatnik\notatnik\obj\Debug\notatnik.exe
+C:\Users\panda\Desktop\notatnik\notatnik\obj\Debug\notatnik.pdb
+C:\Users\panda\Desktop\notatnik Tomasz Piła\notatnik\obj\Debug\notatnik.csprojAssemblyReference.cache
+C:\Users\panda\Desktop\notatnik Tomasz Piła\notatnik\obj\Debug\notatnik.Notatnik.resources
+C:\Users\panda\Desktop\notatnik Tomasz Piła\notatnik\obj\Debug\notatnik.Opinia.resources
+C:\Users\panda\Desktop\notatnik Tomasz Piła\notatnik\obj\Debug\notatnik.O_programie.resources
+C:\Users\panda\Desktop\notatnik Tomasz Piła\notatnik\obj\Debug\notatnik.Properties.Resources.resources
+C:\Users\panda\Desktop\notatnik Tomasz Piła\notatnik\obj\Debug\notatnik.Znajdz.resources
+C:\Users\panda\Desktop\notatnik Tomasz Piła\notatnik\obj\Debug\notatnik.csproj.GenerateResource.cache
+C:\Users\panda\Desktop\notatnik Tomasz Piła\notatnik\obj\Debug\notatnik.csproj.CoreCompileInputs.cache
+C:\Users\panda\Desktop\notatnik Tomasz Piła\notatnik\obj\Debug\notatnik.exe
+C:\Users\panda\Desktop\notatnik Tomasz Piła\notatnik\obj\Debug\notatnik.pdb
+C:\Users\panda\Desktop\notatnik Tomasz Piła\notatnik\bin\Debug\notatnik.exe.config
+C:\Users\panda\Desktop\notatnik Tomasz Piła\notatnik\bin\Debug\notatnik.exe
+C:\Users\panda\Desktop\notatnik Tomasz Piła\notatnik\bin\Debug\notatnik.pdb
